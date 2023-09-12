@@ -38,3 +38,970 @@ DevTools listening on ws://127.0.0.1:54470/devtools/browser/6709195e-770a-42d1-9
 console.warn: services.settings: Ignoring preference override of remote settings server
 console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
 console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+1694528496342	geckodriver	INFO	Listening on 127.0.0.1:53461
+1694528499409	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53462" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GLSK\\AppData\\Local\\Temp\\rust_mozprofileU9rdFb"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694528499758	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694528499809	Marionette	INFO	Listening on port 53472
+WebDriver BiDi listening on ws://127.0.0.1:53462
+Read port: 53472
+1694528499950	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53462/devtools/browser/8ea049fb-2cce-4349-a3ab-56c3cd1f8c37
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+JavaScript warning: https://abs.twimg.com/responsive-web/client-web/main.56afdf3a.js, line 1: Script terminated by timeout at:
+45907/c/this._updateSessionStorage@https://abs.twimg.com/responsive-web/client-web/main.56afdf3a.js:1:2176873
+
+1694528756381	Marionette	INFO	Stopped listening on port 53472
+Dynamically enable window occlusion 1
+warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694528749112	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694528749155	Marionette	INFO	Listening on port 53768
+Read port: 53768
+WebDriver BiDi listening on ws://127.0.0.1:53759
+1694528749188	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53759/devtools/browser/66ede5ac-698e-4307-8432-ba1126d3a6d3
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript warning: https://abs.twimg.com/responsive-web/client-web/main.56afdf3a.js, line 1: Script terminated by timeout at:
+45907/c/this._updateSessionStorage@https://abs.twimg.com/responsive-web/client-web/main.56afdf3a.js:1:2176873
+
+1694528870620	Marionette	INFO	Stopped listening on port 53768
+Dynamically enable window occlusion 1
+1694528876121	geckodriver	INFO	Listening on 127.0.0.1:53908
+1694528879191	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53909" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GLSK\\AppData\\Local\\Temp\\rust_mozprofileMH6fVL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694528879372	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694528879416	Marionette	INFO	Listening on port 53918
+WebDriver BiDi listening on ws://127.0.0.1:53909
+Read port: 53918
+1694528879537	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53909/devtools/browser/65772f2c-7e2d-489f-be9d-7ec5d1cb10fc
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript error: resource:///modules/UrlbarInput.sys.mjs, line 3457: TypeError: event.target.closest is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+SourceActor threw an exception: Error: Failed to fetch https://twitter.com/login. Code 2152398879.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:596:16
+onStopRequest@resource://gre/modules/NetUtil.sys.mjs:124:18
+Line: 596, column: 16
+console.error: (new Error("Failed to fetch https://twitter.com/login. Code 2152398879.", "resource://devtools/shared/DevToolsUtils.js", 596))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 596: Error: Failed to fetch https://twitter.com/login. Code 2152398879.
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+SourceActor threw an exception: Error: Failed to fetch https://twitter.com/login. Code 2152398879.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:596:16
+onStopRequest@resource://gre/modules/NetUtil.sys.mjs:124:18
+Line: 596, column: 16
+console.error: (new Error("Failed to fetch https://twitter.com/login. Code 2152398879.", "resource://devtools/shared/DevToolsUtils.js", 596))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 596: Error: Failed to fetch https://twitter.com/login. Code 2152398879.
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript warning: https://abs.twimg.com/responsive-web/client-web/main.56afdf3a.js, line 1: Script terminated by timeout at:
+45907/c/this._updateSessionStorage@https://abs.twimg.com/responsive-web/client-web/main.56afdf3a.js:1:2176873
+
+1694529852393	Marionette	INFO	Stopped listening on port 53918
+Dynamically enable window occlusion 1
+warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694529841330	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694529841375	Marionette	INFO	Listening on port 54521
+WebDriver BiDi listening on ws://127.0.0.1:54512
+Read port: 54521
+1694529841536	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54512/devtools/browser/1a7c38b3-2682-4da9-b7c0-6bc0b5b13b68
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+SourceActor threw an exception: Error: Failed to fetch https://twitter.com/login. Code 2152398879.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:596:16
+onStopRequest@resource://gre/modules/NetUtil.sys.mjs:124:18
+Line: 596, column: 16
+console.error: (new Error("Failed to fetch https://twitter.com/login. Code 2152398879.", "resource://devtools/shared/DevToolsUtils.js", 596))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 596: Error: Failed to fetch https://twitter.com/login. Code 2152398879.
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript warning: https://abs.twimg.com/responsive-web/client-web/main.56afdf3a.js, line 1: Script terminated by timeout at:
+45907/c/this._updateSessionStorage@https://abs.twimg.com/responsive-web/client-web/main.56afdf3a.js:1:2176873
+
+1694529943453	Marionette	INFO	Stopped listening on port 54521
+Dynamically enable window occlusion 1
+ the environment
+1694529935845	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694529935890	Marionette	INFO	Listening on port 54647
+WebDriver BiDi listening on ws://127.0.0.1:54639
+Read port: 54647
+1694529936015	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54639/devtools/browser/ba65b61e-a2b3-4ad3-bb12-f0618f3ddfe6
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript warning: https://abs.twimg.com/responsive-web/client-web/main.56afdf3a.js, line 1: Script terminated by timeout at:
+45907/c/this._updateSessionStorage@https://abs.twimg.com/responsive-web/client-web/main.56afdf3a.js:1:2176873
+
+1694529956375	Marionette	INFO	Stopped listening on port 54647
+Dynamically enable window occlusion 1
+warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694529953690	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694529953732	Marionette	INFO	Listening on port 54717
+WebDriver BiDi listening on ws://127.0.0.1:54709
+Read port: 54717
+1694529953856	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54709/devtools/browser/2ddfe907-ff98-43c6-8d54-fc03826156fc
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript warning: https://abs.twimg.com/responsive-web/client-web/main.56afdf3a.js, line 1: Script terminated by timeout at:
+45907/c/this._updateSessionStorage@https://abs.twimg.com/responsive-web/client-web/main.56afdf3a.js:1:2176873
+
+1694530021189	Marionette	INFO	Stopped listening on port 54717
+Dynamically enable window occlusion 1
+warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694530018290	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694530018333	Marionette	INFO	Listening on port 54812
+WebDriver BiDi listening on ws://127.0.0.1:54801
+Read port: 54812
+1694530018453	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54801/devtools/browser/b5567cf0-a07e-4f33-957c-cb3a0dccc831
+JavaScript warning: https://abs.twimg.com/responsive-web/client-web/main.56afdf3a.js, line 1: Script terminated by timeout at:
+45907/c/this._updateSessionStorage@https://abs.twimg.com/responsive-web/client-web/main.56afdf3a.js:1:2176873
+
+1694530246072	Marionette	INFO	Stopped listening on port 54812
+Dynamically enable window occlusion 1
+warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694530204983	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694530205024	Marionette	INFO	Listening on port 54977
+WebDriver BiDi listening on ws://127.0.0.1:54969
+Read port: 54977
+1694530205166	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54969/devtools/browser/58ff34f0-8cb6-4f8d-9078-ea90e1de12b1
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+SourceActor threw an exception: Error: Failed to fetch https://twitter.com/login. Code 2152398879.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:596:16
+onStopRequest@resource://gre/modules/NetUtil.sys.mjs:124:18
+Line: 596, column: 16
+console.error: (new Error("Failed to fetch https://twitter.com/login. Code 2152398879.", "resource://devtools/shared/DevToolsUtils.js", 596))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 596: Error: Failed to fetch https://twitter.com/login. Code 2152398879.
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+JavaScript warning: https://abs.twimg.com/responsive-web/client-web/main.56afdf3a.js, line 1: Script terminated by timeout at:
+45907/c/this._updateSessionStorage@https://abs.twimg.com/responsive-web/client-web/main.56afdf3a.js:1:2176873
+Async*c@https://abs.twimg.com/responsive-web/client-web/main.56afdf3a.js:1:2180162
+45907/A<@https://abs.twimg.com/responsive-web/client-web/main.56afdf3a.js:1:2181908
+45907@https://abs.twimg.com/responsive-web/client-web/main.56afdf3a.js:1:2181937
+r@https://twitter.com/i/flow/login:152:110242
+89358@https://abs.twimg.com/responsive-web/client-web/main.56afdf3a.js:1:212185
+r@https://twitter.com/i/flow/login:152:110242
+promise callback*75787/<@https://abs.twimg.com/responsive-web/client-web/main.56afdf3a.js:1:163748
+promise callback*75787@https://abs.twimg.com/responsive-web/client-web/main.56afdf3a.js:1:163720
+r@https://twitter.com/i/flow/login:152:110242
+@https://absconsole.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+1694530407180	Marionette	INFO	Stopped listening on port 55124
+Dynamically enable window occlusion 1
+e'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1694530354012	Marionette	INFO	Stopped listening on port 54977
+Dynamically enable window occlusion 1
+1694530396267	geckodriver	INFO	Listening on 127.0.0.1:55208
+1694530399312	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55209" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GLSK\\AppData\\Local\\Temp\\rust_mozprofileOdT39A"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694530399485	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694530399529	Marionette	INFO	Listening on port 55217
+WebDriver BiDi listening on ws://127.0.0.1:55209
+Read port: 55217
+1694530399738	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55209/devtools/browser/c72eec83-b69d-4fd7-b61f-72a6f0b6e76f
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+SourceActor threw an exception: Error: Failed to fetch https://twitter.com/login. Code 2152398879.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:596:16
+onStopRequest@resource://gre/modules/NetUtil.sys.mjs:124:18
+Line: 596, column: 16
+console.error: (new Error("Failed to fetch https://twitter.com/login. Code 2152398879.", "resource://devtools/shared/DevToolsUtils.js", 596))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 596: Error: Failed to fetch https://twitter.com/login. Code 2152398879.
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+JavaScript warning: https://abs.twimg.com/responsive-web/client-web/main.56afdf3a.js, line 1: Script terminated by timeout at:
+45907/c/this._updateSessionStorage@https://abs.twimg.com/responsive-web/client-web/main.56afdf3a.js:1:2176873
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1694531500545	Marionette	INFO	Stopped listening on port 55217
+Dynamically enable window occlusion 1
+t: 55733
+1694531218635	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55724/devtools/browser/6ee395f9-9ef0-4136-8ba2-1bb6a3994540
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+SourceActor threw an exception: Error: Failed to fetch https://twitter.com/login. Code 2152398879.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:596:16
+onStopRequest@resource://gre/modules/NetUtil.sys.mjs:124:18
+Line: 596, column: 16
+console.error: (new Error("Failed to fetch https://twitter.com/login. Code 2152398879.", "resource://devtools/shared/DevToolsUtils.js", 596))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 596: Error: Failed to fetch https://twitter.com/login. Code 2152398879.
+JavaScript warning: https://abs.twimg.com/responsive-web/client-web/main.56afdf3a.js, line 1: Script terminated by timeout at:
+45907/c/this._updateSessionStorage@https://abs.twimg.com/responsive-web/client-web/main.56afdf3a.js:1:2176873
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1694531501073	Marionette	INFO	Stopped listening on port 55733
+Dynamically enable window occlusion 1
+t: 55951
+1694531395597	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55943/devtools/browser/a94cfc27-a949-4fa4-8158-f45518529271
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript warning: https://abs.twimg.com/responsive-web/client-web/main.56afdf3a.js, line 1: Script terminated by timeout at:
+45907/c/this._updateSessionStorage@https://abs.twimg.com/responsive-web/client-web/main.56afdf3a.js:1:2176873
+
+1694531501971	Marionette	INFO	Stopped listening on port 55951
+Dynamically enable window occlusion 1
+1694531504976	geckodriver	INFO	Listening on 127.0.0.1:56084
+1694531508033	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56085" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GLSK\\AppData\\Local\\Temp\\rust_mozprofile8BTThs"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694531508215	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694531508257	Marionette	INFO	Listening on port 56093
+WebDriver BiDi listening on ws://127.0.0.1:56085
+Read port: 56093
+1694531508381	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56085/devtools/browser/07ac6dae-8bb1-47b6-875c-65d936fb922b
+JavaScript warning: https://accounts.google.com/gsi/button?theme=outline&size=large&shape=circle&logo_alignment=center&text=signin_with&width=300&client_id=49625052041-kgt0hghf445lmcmhijv46b715m2mpbct.apps.googleusercontent.com&iframe_id=gsi_512312_227772&as=2V%2Bh07h8nSXyuvqiGXr2rA&hl=en, line 128: Script terminated by timeout at:
+_.G<@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQD/d=1/rs=AF0KOtW1V58es7jsdPDJ36X6lzsH6uYVMw/m=credential_button_library:128:942
+nd@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQD/d=1/rs=AF0KOtW1V58es7jsdPDJ36X6lzsH6uYVMw/m=credential_button_library:89:181
+Od@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQD/d=1/rs=AF0KOtW1V58es7jsdPDJ36X6lzsH6uYVMw/m=credential_button_library:98:364
+_.P.prototype.toJSON@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQD/d=1/rs=AF0KOtW1V58es7jsdPDJ36X6lzsH6uYVMw/m=credential_button_library:131:275
+Jg@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQD/d=1/rs=AF0KOtW1V58es7jsdPDJ36X6lzsH6uYVMw/m=credential_button_library:157:475
+fi/<@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQD/d=1/rs=AF0KOtW1V58es7jsdPDJ36X6lzsH6uYVMw/m=credential_button_library:187:110
+ii@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQD/d=1/rs=AF0KOtW1V58es7jsdPDJ36X6lzsH6uYVMw/m=credential_button_library:187:356
+fi@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQD/d=1/rs=AF0KOtW1V58es7jsdPDJ36X6lzsH6uYVMw/m=credential_button_library:187:22
+bi.prototype.K@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQD/d=1/rs=AF0KOtW1V58es7jsdPDJ36X6lzsH6uYVMw/m=credential_button_library:186:101
+bi/<@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQD/d=1/rs=AF0KOtW1V58es7jsdPDJ36X6lzsH6uYVMw/m=credential_button_library:180:338
+gc@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQD/d=1/rs=AF0KOtW1V58es7jsdPDJ36X6lzsH6uYVMw/m=credential_button_library:55:102
+b@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQD/d=1/rs=AF0KOtW1V58es7jsdPDJ36X6lzsH6uYVMw/m=credential_button_library:52:473
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+SourceActor threw an exception: Error: Failed to fetch https://twitter.com/login. Code 2152398879.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:596:16
+onStopRequest@resource://gre/modules/NetUtil.sys.mjs:124:18
+Line: 596, column: 16
+console.error: (new Error("Failed to fetch https://twitter.com/login. Code 2152398879.", "resource://devtools/shared/DevToolsUtils.js", 596))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 596: Error: Failed to fetch https://twitter.com/login. Code 2152398879.
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript warning: https://abs.twimg.com/responsive-web/client-web/main.56afdf3a.js, line 1: Script terminated by timeout at:
+45907/c/this._updateSessionStorage@https://abs.twimg.com/responsive-web/client-web/main.56afdf3a.js:1:2176873
+
+1694532306973	Marionette	INFO	Stopped listening on port 56093
+Dynamically enable window occlusion 1
+1694532315904	geckodriver	INFO	Listening on 127.0.0.1:56769
+1694532318943	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56770" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GLSK\\AppData\\Local\\Temp\\rust_mozprofileRKuANl"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694532319121	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694532319163	Marionette	INFO	Listening on port 56793
+WebDriver BiDi listening on ws://127.0.0.1:56770
+Read port: 56793
+1694532319255	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56770/devtools/browser/c155d225-f547-4e11-a0dd-99267a04dec7
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript warning: https://abs.twimg.com/responsive-web/client-web/main.56afdf3a.js, line 1: Script terminated by timeout at:
+45907/c/this._updateSessionStorage@https://abs.twimg.com/responsive-web/client-web/main.56afdf3a.js:1:2176873
+
+1694532434896	Marionette	INFO	Stopped listening on port 56793
+Dynamically enable window occlusion 1
+warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694532431739	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694532431795	Marionette	INFO	Listening on port 56964
+WebDriver BiDi listening on ws://127.0.0.1:56956
+Read port: 56964
+1694532431946	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56956/devtools/browser/a753c401-bda9-4418-b614-b1e8d2dae7dc
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+1694532495895	Marionette	INFO	Stopped listening on port 56961694532497636	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57060" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GLSK\\AppData\\Local\\Temp\\rust_mozprofileQGpErt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694532497823	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694532497866	Marionette	INFO	Listening on port 57068
+WebDriver BiDi listening on ws://127.0.0.1:57060
+Read port: 57068
+1694532498013	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57060/devtools/browser/04b2d835-56a7-4997-9d50-ae687c2f3c32
+JavaScript warning: https://accounts.google.com/gsi/button?theme=outline&size=large&shape=circle&logo_alignment=center&text=signin_with&width=300&client_id=49625052041-kgt0hghf445lmcmhijv46b715m2mpbct.apps.googleusercontent.com&iframe_id=gsi_501913_284514&as=nU%2BzTXcPbMw4lwmUthkFSA&hl=en, line 128: Script terminated by timeout at:
+_.I<@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQD/d=1/rs=AF0KOtW1V58es7jsdPDJ36X6lzsH6uYVMw/m=credential_button_library:128:1004
+Od@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQD/d=1/rs=AF0KOtW1V58es7jsdPDJ36X6lzsH6uYVMw/m=credential_button_library:98:231
+_.P.prototype.toJSON@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQD/d=1/rs=AF0KOtW1V58es7jsdPDJ36X6lzsH6uYVMw/m=credential_button_library:131:275
+Jg@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQD/d=1/rs=AF0KOtW1V58es7jsdPDJ36X6lzsH6uYVMw/m=credential_button_library:157:475
+fi/<@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQD/d=1/rs=AF0KOtW1V58es7jsdPDJ36X6lzsH6uYVMw/m=credential_button_library:187:110
+ii@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQD/d=1/rs=AF0KOtW1V58es7jsdPDJ36X6lzsH6uYVMw/m=credential_button_library:187:356
+fi@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQD/d=1/rs=AF0KOtW1V58es7jsdPDJ36X6lzsH6uYVMw/m=credential_button_library:187:22
+bi.prototype.K@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQD/d=1/rs=AF0KOtW1V58es7jsdPDJ36X6lzsH6uYVMw/m=credential_button_library:186:101
+bi/<@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQD/d=1/rs=AF0KOtW1V58es7jsdPDJ36X6lzsH6uYVMw/m=credential_button_library:180:338
+gc@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQD/d=1/rs=AF0KOtW1V58es7jsdPDJ36X6lzsH6uYVMw/m=credential_button_library:55:102
+b@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQD/d=1/rs=AF0KOtW1V58es7jsdPDJ36X6lzsH6uYVMw/m=credential_button_library:52:473
+
+JavaScript warning: https://abs.twimg.com/responsive-web/client-web/main.56afdf3a.js, line 1: Script terminated by timeout at:
+45907/c/this._updateSessionStorage@https://abs.twimg.com/responsive-web/client-web/main.56afdf3a.js:1:2176873
+
+1694532611988	Marionette	INFO	Stopped listening on port 57068
+Dynamically enable window occlusion 1
+1694532619513	geckodriver	INFO	Listening on 127.0.0.1:57188
+1694532622551	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57189" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GLSK\\AppData\\Local\\Temp\\rust_mozprofileBREcLr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694532622735	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694532622779	Marionette	INFO	Listening on port 57197
+WebDriver BiDi listening on ws://127.0.0.1:57189
+Read port: 57197
+1694532622910	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57189/devtools/browser/f9a25cd5-72b5-4c15-a7bc-17b81badcaa2
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript warning: https://abs.twimg.com/responsive-web/cli1694532684697	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57287" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GLSK\\AppData\\Local\\Temp\\rust_mozprofileZlEes4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694532684912	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694532684960	Marionette	INFO	Listening on port 57296
+WebDriver BiDi listening on ws://127.0.0.1:57287
+Read port: 57296
+1694532685099	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57287/devtools/browser/962989a9-753c-46bd-bd1c-3c1d3757e2a5
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript warning: https://abs.twimg.com/responsive-web/client-web/main.56afdf3a.js, line 1: Script terminated by timeout at:
+45907/c/this._updateSessionStorage@https://abs.twimg.com/responsive-web/client-web/main.56afdf3a.js:1:2176873
+
+1694532861414	Marionette	INFO	Stopped listening on port 57296
+Dynamically enable window occlusion 1
+warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694532790841	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694532790890	Marionette	INFO	Listening on port 57416
+WebDriver BiDi listening on ws://127.0.0.1:57407
+Read port: 57416
+1694532791033	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57407/devtools/browser/67841807-8985-4f80-a100-acb4ef1d73fe
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript warning: https://abs.twimg.com/responsive-web/client-web/main.56afdf3a.js, line 1: Script terminated by timeout at:
+45907/c/this._updateSessionStorage@https://abs.twimg.com/responsive-web/client-web/main.56afdf3a.js:1:2176873
+
+1694532832649	Marionette	INFO	Stopped listening on port 57416
+Dynamically enable window occlusion 1
+1694532838001	geckodriver	INFO	Listening on 127.0.0.1:57506
+1694532841042	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57507" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GLSK\\AppData\\Local\\Temp\\rust_mozprofilezqlSGA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694532841224	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694532841267	Marionette	INFO	Listening on port 57515
+WebDriver BiDi listening on ws://127.0.0.1:57507
+Read port: 57515
+1694532841478	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57507/devtools/browser/ba5e86f6-ddab-481f-8cf6-eedc21b3e640
+JavaScript warning: https://accounts.google.com/gsi/button?theme=outline&size=large&shape=circle&logo_alignment=center&text=signin_with&width=300&client_id=49625052041-kgt0hghf445lmcmhijv46b715m2mpbct.apps.googleusercontent.com&iframe_id=gsi_845186_597045&as=Y1mLmLPM9q0vlUdgxBzQnw&hl=en, line 157: Script terminated by timeout at:
+Lg@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQC/d=1/rs=AF0KOtXlGJvyMA6NagB-eoGtQw0fHF6qdA/m=credential_button_library:157:175
+Og@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQC/d=1/rs=AF0KOtXlGJvyMA6NagB-eoGtQw0fHF6qdA/m=credential_button_library:158:177
+ii@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQC/d=1/rs=AF0KOtXlGJvyMA6NagB-eoGtQw0fHF6qdA/m=credential_button_library:186:222
+fi@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQC/d=1/rs=AF0KOtXlGJvyMA6NagB-eoGtQw0fHF6qdA/m=credential_button_library:186:22
+bi.prototype.K@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQC/d=1/rs=AF0KOtXlGJvyMA6NagB-eoGtQw0fHF6qdA/m=credential_button_library:185:101
+bi/<@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQC/d=1/rs=AF0KOtXlGJvyMA6NagB-eoGtQw0fHF6qdA/m=credential_button_library:179:338
+gc@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQC/d=1/rs=AF0KOtXlGJvyMA6NagB-eoGtQw0fHF6qdA/m=credential_button_library:55:102
+b@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQC/d=1/rs=AF0KOtXlGJvyMA6NagB-eoGtQw0fHF6qdA/m=credential_button_library:52:473
+
+1694532870817	Marionette	INFO	Stopped listening on port 57515
+Dynamically enable window occlusion 1
+1694532871819	geckodriver	INFO	Listening on 127.0.0.1:57585
+1694532874849	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57586" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GLSK\\AppData\\Local\\Temp\\rust_mozprofilev1LceD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694532875055	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694532875106	Marionette	INFO	Listening on port 57595
+WebDriver BiDi listening on ws://127.0.0.1:57586
+Read port: 57595
+1694532875286	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57586/devtools/browser/e244eebc-9d5a-4cad-b202-91b4f828fe02
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript warning: https://abs.twimg.com/responsive-web/client-web/main.56afdf3a.js, line 1: Script terminated by timeout at:
+45907/c/this._updateSessionStorage@https://abs.twimg.com/responsive-web/client-web/main.56afdf3a.js:1:2176873
+
+1694532913239	Marionette	INFO	Stopped listening on port 57595
+Dynamically enable window occlusion 1
+warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694532913086	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694532913133	Marionette	INFO	Listening on port 57686
+WebDriver BiDi listening on ws://127.0.0.1:57678
+Read port: 57686
+1694532913289	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57678/devtools/browser/cb1444e3-c747-4aa5-b1d6-6a9918168be0
+JavaScript warning: https://accounts.google.com/gsi/button?theme=outline&size=large&shape=circle&logo_alignment=center&text=signin_with&width=300&client_id=49625052041-kgt0hghf445lmcmhijv46b715m2mpbct.apps.googleusercontent.com&iframe_id=gsi_917243_985412&as=4WKjgKvz26It2%2F3EVj6EbQ&hl=en, line 186: Script terminated by timeout at:
+fi/<@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQC/d=1/rs=AF0KOtXlGJvyMA6NagB-eoGtQw0fHF6qdA/m=credential_button_library:186:153
+ii@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQC/d=1/rs=AF0KOtXlGJvyMA6NagB-eoGtQw0fHF6qdA/m=credential_button_library:186:356
+fi@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQC/d=1/rs=AF0KOtXlGJvyMA6NagB-eoGtQw0fHF6qdA/m=credential_button_library:186:22
+bi.prototype.K@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQC/d=1/rs=AF0KOtXlGJvyMA6NagB-eoGtQw0fHF6qdA/m=credential_button_library:185:101
+bi/<@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQC/d=1/rs=AF0KOtXlGJvyMA6NagB-eoGtQw0fHF6qdA/m=credential_button_library:179:338
+gc@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQC/d=1/rs=AF0KOtXlGJvyMA6NagB-eoGtQw0fHF6qdA/m=credential_button_library:55:102
+b@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQC/d=1/rs=AF0KOtXlGJvyMA6NagB-eoGtQw0fHF6qdA/m=credential_button_library:52:473
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+JavaScript warning: https://abs.twimg.com/responsive-web/client-web/main.56afdf3a.js, line 1: Script terminated by timeout at:
+45907/c/this._updateSessionStorage@https://abs.twimg.com/responsive-web/client-web/main.56afdf3a.js:1:2176873
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1694537296132	Marionette	INFO	Stopped listening on port 57686
+Dynamically enable window occlusion 1
+1694537301251	geckodriver	INFO	Listening on 127.0.0.1:60063
+1694537304301	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60064" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GLSK\\AppData\\Local\\Temp\\rust_mozprofile6WPwYM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694537304481	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694537304526	Marionette	INFO	Listening on port 60073
+WebDriver BiDi listening on ws://127.0.0.1:60064
+Read port: 60073
+1694537304831	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60064/devtools/browser/88c4f74d-2942-4f54-9d7f-709b3743c080
+JavaScript warning: https://accounts.google.com/gsi/button?theme=outline&size=large&shape=circle&logo_alignment=center&text=signin_with&width=300&client_id=49625052041-kgt0hghf445lmcmhijv46b715m2mpbct.apps.googleusercontent.com&iframe_id=gsi_308465_251564&as=ng0tBIahY7%2BtbR0OiYO%2FEg&hl=en, line 98: Script terminated by timeout at:
+Od@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQC/d=1/rs=AF0KOtXlGJvyMA6NagB-eoGtQw0fHF6qdA/m=credential_button_library:98:276
+_.P.prototype.toJSON@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQC/d=1/rs=AF0KOtXlGJvyMA6NagB-eoGtQw0fHF6qdA/m=credential_button_library:131:275
+Jg@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQC/d=1/rs=AF0KOtXlGJvyMA6NagB-eoGtQw0fHF6qdA/m=credential_button_library:156:463
+fi/<@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQC/d=1/rs=AF0KOtXlGJvyMA6NagB-eoGtQw0fHF6qdA/m=credential_button_library:186:110
+ii@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQC/d=1/rs=AF0KOtXlGJvyMA6NagB-eoGtQw0fHF6qdA/m=credential_button_library:186:356
+fi@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQC/d=1/rs=AF0KOtXlGJvyMA6NagB-eoGtQw0fHF6qdA/m=credential_button_library:186:22
+bi.prototype.K@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQC/d=1/rs=AF0KOtXlGJvyMA6NagB-eoGtQw0fHF6qdA/m=credential_button_library:185:101
+bi/<@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQC/d=1/rs=AF0KOtXlGJvyMA6NagB-eoGtQw0fHF6qdA/m=credential_button_library:179:338
+gc@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQC/d=1/rs=AF0KOtXlGJvyMA6NagB-eoGtQw0fHF6qdA/m=credential_button_library:55:102
+b@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQC/d=1/rs=AF0KOtXlGJvyMA6NagB-eoGtQw0fHF6qdA/m=credential_button_library:52:473
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+JavaScript warning: https://abs.twimg.com/responsive-web/client-web/vendor.e4ea7aea.js, line 66: Script terminated by timeout at:
+Ts@https://abs.twimg.com/responsive-web/client-web/vendor.e4ea7aea.js:66:98212
+xs@https://abs.twimg.com/responsive-web/client-web/vendor.e4ea7aea.js:66:98086
+ys@https://abs.twimg.com/responsive-web/client-web/vendor.e4ea7aea.js:66:95073
+52967/Yi/<@https://abs.twimg.com/responsive-web/client-web/vendor.e4ea7aea.js:66:44972
+46475/d.unstable_runWithPriority@https://abs.twimg.com/responsive-web/client-web/main.56afdf3a.js:35:3267
+qi@https://abs.twimg.com/responsive-web/client-web/vendor.e4ea7aea.js:66:44749
+Yi@https://abs.twimg.com/responsive-web/client-web/vendor.e4ea7aea.js:66:44919
+Ki@https://abs.twimg.com/responsive-web/client-web/vendor.e4ea7aea.js:66:44852
+ps@https://abs.twimg.com/responsive-web/client-web/vendor.e4ea7aea.js:66:92458
+enqueueSetState@https://abs.twimg.com/responsive-web/client-web/vendor.e4ea7aea.js:66:48826
+83426/g.prototype.setState@https://abs.twimg.com/responsive-web/client-web/vendor.e4ea7aea.js:82:1307
+38250/y/this._handlePlayerApi/</this._unsubscribe<@https://abs.twimg.com/responsive-web/client-web/shared~bundle.TwitterArticles~bundle.ComposeMedia~loaders.video.VideoPlayerDefaultUI~loaders.video.VideoPlaye.32c96efa.js:1:1724
+34341/qs/this.subscribe/r<@https://abs.twimg.com/responsive-web/client-web/shared~bundle.TwitterArticles~bundle.ComposeMedia~loaders.video.PlayerBase~loader.MediaPreviewVideoPlayer~loa.c00a538a.js:1:87445
+m@https://abs.twimg.com/responsive-web/client-web/vendor.e4ea7aea.js:82:10244
+43292/n/</</<@https://abs.twimg.com/responsive-web/client-web/vendor.e4ea7aea.js:82:8052
+87632/t.default/</<@https://abs.twimg.com/responsive-web/client-web/shared~bundle.TwitterArticles~bundle.ComposeMedia~loaders.video.PlayerBase~loader.MediaPreviewVideoPlayer~loa.c00a538a.js:1:2118
+34341/$s</</<@https://abs.twimg.com/responsive-web/client-web/shared~bundle.TwitterArticles~bundle.ComposeMedia~loaders.video.PlayerBase~loader.MediaPreviewVideoPlayer~loa.c00a538a.js:1:79417
+34341/$s</</<@https://abs.twimg.com/responsive-web/client-web/shared~bundle.TwitterArticles~bundle.ComposeMedia~loaders.video.PlayerBase~loader.MediaPreviewVideoPlayer~loa.c00a538a.js:1:77937
+34341/$s</</<@https://abs.twimg.com/responsive-web/client-web/shared~bundle.TwitterArticles~bundle.ComposeMedia~loaders.video.PlayerBase~loader.MediaPreviewVideoPlayer~loa.c00a538a.js:1:77728
+34341/$s</</<@https://abs.twimg.com/responsive-web/client-web/shared~bundle.TwitterArticles~bundle.ComposeMedia~loaders.video.PlayerBase~loader.MediaPreviewVideoPlayer~loa.c00a538a.js:1:76178
+34341/$s</</<@https://abs.twimg.com/responsive-web/client-web/shared~bundle.TwitterArticles~bundle.ComposeMedia~loaders.video.PlayerBase~loader.MediaPreviewVideoPlayer~loa.c00a538a.js:1:75826
+34341/$s</</<@https://abs.twimg.com/responsive-web/client-web/shared~bundle.TwitterArticles~bundle.ComposeMedia~loaders.video.PlayerBase~loader.MediaPreviewVideoPlayer~loa.c00a538a.js:1:75570
+34341/$s</</<@https://abs.twimg.com/responsive-web/client-web/shared~bundle.TwitterArticles~bundle.ComposeMedia~loaders.video.PlayerBase~loader.MediaPreviewVideoPlayer~loa.c00a538a.js:1:75387
+34341/$s</</<@https://abs.twimg.com/responsive-web/client-web/shared~bundle.TwitterArticles~bundle.ComposeMedia~loaders.video.PlayerBase~loader.MediaPreviewVideoPlayer~loa.c00a538a.js:1:75065
+_dispatch@https://abs.twimg.com/responsive-web/client-web/shared~bundle.TwitterArticles~bundle.ComposeMedia~loaders.video.PlayerBase~loader.MediaPreviewVideoPlayer~loa.c00a538a.js:1:89741
+34341/qs/this.updatePosition/<@https://abs.twimg.com/responsive-web/client-web/shared~bundle.TwitterArticles~bundle.ComposeMedia~loaders.video.PlayerBase~loader.MediaPreviewVideoPlayer~loa.c00a538a.js:1:86690
+
+1694537443328	Marionette	INFO	Stopped listening on port 60073
+Dynamically enable window occlusion 1
+1694537445459	geckodriver	INFO	Listening on 127.0.0.1:60214
+1694537448495	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60215" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GLSK\\AppData\\Local\\Temp\\rust_mozprofilelqoSyP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694537448693	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694537448740	Marionette	INFO	Listening on port 60223
+WebDriver BiDi listening on ws://127.0.0.1:60215
+Read port: 60223
+1694537448880	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60215/devtools/browser/645c800d-5ddc-490e-89c3-bcd20e47947f
+JavaScript warning: https://accounts.google.com/gsi/button?theme=outline&size=large&shape=circle&logo_alignment=center&text=signin_with&width=300&client_id=49625052041-kgt0hghf445lmcmhijv46b715m2mpbct.apps.googleusercontent.com&iframe_id=gsi_452665_889952&as=Pw63pPwAaw9weor6y4FpKg&hl=en, line 186: Script terminated by timeout at:
+fi/<@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQC/d=1/rs=AF0KOtXlGJvyMA6NagB-eoGtQw0fHF6qdA/m=credential_button_library:186:153
+ii@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQC/d=1/rs=AF0KOtXlGJvyMA6NagB-eoGtQw0fHF6qdA/m=credential_button_library:186:356
+fi@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQC/d=1/rs=AF0KOtXlGJvyMA6NagB-eoGtQw0fHF6qdA/m=credential_button_library:186:22
+bi.prototype.K@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQC/d=1/rs=AF0KOtXlGJvyMA6NagB-eoGtQw0fHF6qdA/m=credential_button_library:185:101
+bi/<@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQC/d=1/rs=AF0KOtXlGJvyMA6NagB-eoGtQw0fHF6qdA/m=credential_button_library:179:338
+gc@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQC/d=1/rs=AF0KOtXlGJvyMA6NagB-eoGtQw0fHF6qdA/m=credential_button_library:55:102
+b@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQC/d=1/rs=AF0KOtXlGJvyMA6NagB-eoGtQw0fHF6qdA/m=credential_button_library:52:473
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+SourceActor threw an exception: Error: Failed to fetch https://twitter.com/home. Code 2152398879.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:596:16
+onStopRequest@resource://gre/modules/NetUtil.sys.mjs:124:18
+Line: 596, column: 16
+console.error: (new Error("Failed to fetch https://twitter.com/home. Code 2152398879.", "resource://devtools/shared/DevToolsUtils.js", 596))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 596: Error: Failed to fetch https://twitter.com/home. Code 2152398879.
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+JavaScript warning: https://abs.twimg.com/responsive-web/client-web/main.56afdf3a.js, line 1: Script terminated by timeout at:
+45907/c/this._updateSessionStorage@https://abs.twimg.com/responsive-web/client-web/main.56afdf3a.js:1:2176873
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1694537762481	Marionette	INFO	Stopped listening on port 60223
+Dynamically enable window occlusion 1
+1694537786564	geckodriver	INFO	Listening on 127.0.0.1:60612
+1694537789635	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60613" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GLSK\\AppData\\Local\\Temp\\rust_mozprofilenzKFrw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694537789821	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694537789869	Marionette	INFO	Listening on port 60622
+WebDriver BiDi listening on ws://127.0.0.1:60613
+Read port: 60622
+1694537790019	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60613/devtools/browser/6291bbda-c033-43f4-81e2-bde5ab7cd2ab
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+1694537806325	geckodriver	INFO	Listening on 127.0.0.1:60677
+1694537809387	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60678" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GLSK\\AppData\\Local\\Temp\\rust_mozprofileO1JTBw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694537809575	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694537809620	Marionette	INFO	Listening on port 60688
+WebDriver BiDi listening on ws://127.0.0.1:60678
+Read port: 60688
+1694537809743	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60678/devtools/browser/72088688-ac4f-4303-b94e-6fce25407ee7
+JavaScript warning: https://accounts.google.com/gsi/button?theme=outline&size=large&shape=circle&logo_alignment=center&text=signin_with&width=300&client_id=49625052041-kgt0hghf445lmcmhijv46b715m2mpbct.apps.googleusercontent.com&iframe_id=gsi_813632_348974&as=x0TzQGRHlYM2BC4h3gq20A&hl=en, line 187: Script terminated by timeout at:
+fi/<@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQD/d=1/rs=AF0KOtW1V58es7jsdPDJ36X6lzsH6uYVMw/m=credential_button_library:187:153
+ii@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQD/d=1/rs=AF0KOtW1V58es7jsdPDJ36X6lzsH6uYVMw/m=credential_button_library:187:356
+fi@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQD/d=1/rs=AF0KOtW1V58es7jsdPDJ36X6lzsH6uYVMw/m=credential_button_library:187:22
+bi.prototype.K@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQD/d=1/rs=AF0KOtW1V58es7jsdPDJ36X6lzsH6uYVMw/m=credential_button_library:186:101
+bi/<@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQD/d=1/rs=AF0KOtW1V58es7jsdPDJ36X6lzsH6uYVMw/m=credential_button_library:180:338
+gc@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQD/d=1/rs=AF0KOtW1V58es7jsdPDJ36X6lzsH6uYVMw/m=credential_button_library:55:102
+b@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQD/d=1/rs=AF0KOtW1V58es7jsdPDJ36X6lzsH6uYVMw/m=credential_button_library:52:473
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+JavaScript warning: https://abs.twimg.com/responsive-web/client-web/main.56afdf3a.js, line 1: Script terminated by timeout at:
+45907/c/this._updateSessionStorage@https://abs.twimg.com/responsive-web/client-web/main.56afdf3a.js:1:2176873
+
+1694539845321	Marionette	INFO	Stopped listening on port 60688
+Dynamically enable window occlusion 1
+1694540714630	geckodriver	INFO	Listening on 127.0.0.1:62455
+1694540717677	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62456" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GLSK\\AppData\\Local\\Temp\\rust_mozprofile96bgOd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694540717861	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694540717904	Marionette	INFO	Listening on port 62465
+WebDriver BiDi listening on ws://127.0.0.1:62456
+Read port: 62465
+1694540718023	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62456/devtools/browser/222045e6-eb45-43b8-9e88-5db83b985fa0
+JavaScript warning: https://accounts.google.com/gsi/button?theme=outline&size=large&shape=circle&logo_alignment=center&text=signin_with&width=300&client_id=49625052041-kgt0hghf445lmcmhijv46b715m2mpbct.apps.googleusercontent.com&iframe_id=gsi_721909_529358&as=TtqWAIrlovTESpXxP1rhmg&hl=en, line 144: Script terminated by timeout at:
+Vf@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQC/d=1/rs=AF0KOtXlGJvyMA6NagB-eoGtQw0fHF6qdA/m=credential_button_library:144:236
+Jg@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQC/d=1/rs=AF0KOtXlGJvyMA6NagB-eoGtQw0fHF6qdA/m=credential_button_library:156:463
+fi/<@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQC/d=1/rs=AF0KOtXlGJvyMA6NagB-eoGtQw0fHF6qdA/m=credential_button_library:186:110
+ii@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQC/d=1/rs=AF0KOtXlGJvyMA6NagB-eoGtQw0fHF6qdA/m=credential_button_library:186:356
+fi@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQC/d=1/rs=AF0KOtXlGJvyMA6NagB-eoGtQw0fHF6qdA/m=credential_button_library:186:22
+bi.prototype.K@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQC/d=1/rs=AF0KOtXlGJvyMA6NagB-eoGtQw0fHF6qdA/m=credential_button_library:185:101
+bi/<@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQC/d=1/rs=AF0KOtXlGJvyMA6NagB-eoGtQw0fHF6qdA/m=credential_button_library:179:338
+gc@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQC/d=1/rs=AF0KOtXlGJvyMA6NagB-eoGtQw0fHF6qdA/m=credential_button_library:55:102
+b@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQC/d=1/rs=AF0KOtXlGJvyMA6NagB-eoGtQw0fHF6qdA/m=credential_button_library:52:473
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+JavaScript warning: https://abs.twimg.com/responsive-web/client-web-legacy/vendor.75376d0a.js, line 2: Script terminated by timeout at:
+Z@https://abs.twimg.com/responsive-web/client-web-legacy/vendor.75376d0a.js:2:15093
+value@https://abs.twimg.com/responsive-web/client-web-legacy/main.cac2b4ea.js:1:2536506
+_/value/t<@https://abs.twimg.com/responsive-web/client-web-legacy/main.cac2b4ea.js:1:2536339
+value@https://abs.twimg.com/responsive-web/client-web-legacy/main.cac2b4ea.js:1:2536314
+value@https://abs.twimg.com/responsive-web/client-web-legacy/main.cac2b4ea.js:1:2536190
+value@https://abs.twimg.com/responsive-web/client-web-legacy/shared~loader.AudioContextSpaceClip~ondemand.InlinePlayer.5376d23a.js:1:930
+value@https://abs.twimg.com/responsive-web/client-web-legacy/shared~loader.AudioContextSpaceClip~ondemand.InlinePlayer.5376d23a.js:1:569
+_/r/<@https://abs.twimg.com/responsive-web/client-web-legacy/ondemand.InlinePlayer.87ed2ada.js:1:4220
+n/<@https://abs.twimg.com/responsive-web/client-web-legacy/shared~loader.AudioContextSpaceClip~ondemand.InlinePlayer.5376d23a.js:1:1825
+
+1694540806878	Marionette	INFO	Stopped listening on port 62465
+Dynamically enable window occlusion 1
+1694540807960	geckodriver	INFO	Listening on 127.0.0.1:62592
+1694540810997	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62593" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GLSK\\AppData\\Local\\Temp\\rust_mozprofileLeXQiE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694540811195	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694540811244	Marionette	INFO	Listening on port 62601
+WebDriver BiDi listening on ws://127.0.0.1:62593
+Read port: 62601
+1694540811389	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62593/devtools/browser/cc9cee56-4959-4613-b260-cdcc1b2ba930
+JavaScript warning: https://accounts.google.com/gsi/button?theme=outline&size=large&shape=circle&logo_alignment=center&text=signin_with&width=300&client_id=49625052041-kgt0hghf445lmcmhijv46b715m2mpbct.apps.googleusercontent.com&iframe_id=gsi_815901_619950&as=7hxHE5sdU0V3JNn6Bl6aBQ&hl=en, line 187: Script terminated by timeout at:
+fi/<@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQD/d=1/rs=AF0KOtW1V58es7jsdPDJ36X6lzsH6uYVMw/m=credential_button_library:187:153
+ii@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQD/d=1/rs=AF0KOtW1V58es7jsdPDJ36X6lzsH6uYVMw/m=credential_button_library:187:356
+fi@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQD/d=1/rs=AF0KOtW1V58es7jsdPDJ36X6lzsH6uYVMw/m=credential_button_library:187:22
+bi.prototype.K@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQD/d=1/rs=AF0KOtW1V58es7jsdPDJ36X6lzsH6uYVMw/m=credential_button_library:186:101
+bi/<@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQD/d=1/rs=AF0KOtW1V58es7jsdPDJ36X6lzsH6uYVMw/m=credential_button_library:180:338
+gc@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQD/d=1/rs=AF0KOtW1V58es7jsdPDJ36X6lzsH6uYVMw/m=credential_button_library:55:102
+b@/_/gsi/_/js/k=gsi.gsi.en.13Nb3N7d2Zo.O/am=ABQD/d=1/rs=AF0KOtW1V58es7jsdPDJ36X6lzsH6uYVMw/m=credential_button_library:52:473
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+SourceActor threw an exception: Error: Failed to fetch https://twitter.com/home. Code 2152398879.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:596:16
+onStopRequest@resource://gre/modules/NetUtil.sys.mjs:124:18
+Line: 596, column: 16
+console.error: (new Error("Failed to fetch https://twitter.com/home. Code 2152398879.", "resource://devtools/shared/DevToolsUtils.js", 596))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 596: Error: Failed to fetch https://twitter.com/home. Code 2152398879.
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+JavaScript warning: https://abs.twimg.com/responsive-web/client-web-legacy/main.cac2b4ea.js, line 1: Script terminated by timeout at:
+_/e/<@https://abs.twimg.com/responsive-web/client-web-legacy/main.cac2b4ea.js:1:2463489
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1694540985188	Marionette	INFO	Stopped listening on port 62601
+Dynamically enable window occlusion 1
+1694540989305	geckodriver	INFO	Listening on 127.0.0.1:62789
+1694540992349	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62790" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GLSK\\AppData\\Local\\Temp\\rust_mozprofileYSLqEX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694540992539	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694540992583	Marionette	INFO	Listening on port 62799
+WebDriver BiDi listening on ws://127.0.0.1:62790
+Read port: 62799
+1694540992718	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62790/devtools/browser/bff58c1b-5daa-42a8-9aa4-2b370af4864c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+JavaScript warning: https://abs.twimg.com/responsive-web/client-web-legacy/vendor.75376d0a.js, line 82: Script terminated by timeout at:
+a@https://abs.twimg.com/responsive-web/client-web-legacy/vendor.75376d0a.js:82:189462
+_/tr<@https://abs.twimg.com/responsive-web/client-web-legacy/shared~bundle.TwitterArticles~bundle.ComposeMedia~loaders.video.PlayerBase~loader.MediaPreviewVideoPlayer~loa.ae73fd9a.js:1:72158
+_/rr/<@https://abs.twimg.com/responsive-web/client-web-legacy/shared~bundle.TwitterArticles~bundle.ComposeMedia~loaders.video.PlayerBase~loader.MediaPreviewVideoPlayer~loa.ae73fd9a.js:1:78239
+rr@https://abs.twimg.com/responsive-web/client-web-legacy/shared~bundle.TwitterArticles~bundle.ComposeMedia~loaders.video.PlayerBase~loader.MediaPreviewVideoPlayer~loa.ae73fd9a.js:1:78211
+players@https://abs.twimg.com/responsive-web/client-web-legacy/shared~bundle.TwitterArticles~bundle.ComposeMedia~loaders.video.PlayerBase~loader.MediaPreviewVideoPlayer~loa.ae73fd9a.js:1:92778
+_/c/<@https://abs.twimg.com/responsive-web/client-web-legacy/vendor.75376d0a.js:82:10945
+m@https://abs.twimg.com/responsive-web/client-web-legacy/vendor.75376d0a.js:82:9992
+_/n/</</<@https://abs.twimg.com/responsive-web/client-web-legacy/vendor.75376d0a.js:82:8281
+_/t.default/</<@https://abs.twimg.com/responsive-web/client-web-legacy/shared~bundle.TwitterArticles~bundle.ComposeMedia~loaders.video.PlayerBase~loader.MediaPreviewVideoPlayer~loa.ae73fd9a.js:1:2501
+_/Rr</</<@https://abs.twimg.com/responsive-web/client-web-legacy/shared~bundle.TwitterArticles~bundle.ComposeMedia~loaders.video.PlayerBase~loader.MediaPreviewVideoPlayer~loa.ae73fd9a.js:1:90848
+_/Rr</</<@https://abs.twimg.com/responsive-web/client-web-legacy/shared~bundle.TwitterArticles~bundle.ComposeMedia~loaders.video.PlayerBase~loader.MediaPreviewVideoPlayer~loa.ae73fd9a.js:1:89330
+_/Rr</</<@https://abs.twimg.com/responsive-web/client-web-legacy/shared~bundle.TwitterArticles~bundle.ComposeMedia~loaders.video.PlayerBase~loader.MediaPreviewVideoPlayer~loa.ae73fd9a.js:1:89073
+_/Rr</</<@https://abs.twimg.com/responsive-web/client-web-legacy/shared~bundle.TwitterArticles~bundle.ComposeMedia~loaders.video.PlayerBase~loader.MediaPreviewVideoPlayer~loa.ae73fd9a.js:1:87440
+_/Rr</</<@https://abs.twimg.com/responsive-web/client-web-legacy/shared~bundle.TwitterArticles~bundle.ComposeMedia~loaders.video.PlayerBase~loader.MediaPreviewVideoPlayer~loa.ae73fd9a.js:1:87065
+_/Rr</</<@https://abs.twimg.com/responsive-web/client-web-legacy/shared~bundle.TwitterArticles~bundle.ComposeMedia~loaders.video.PlayerBase~loader.MediaPreviewVideoPlayer~loa.ae73fd9a.js:1:86773
+_/Rr</</<@https://abs.twimg.com/responsive-web/client-web-legacy/shared~bundle.TwitterArticles~bundle.ComposeMedia~loaders.video.PlayerBase~loader.MediaPreviewVideoPlayer~loa.ae73fd9a.js:1:86547
+_/Rr</</<@https://abs.twimg.com/responsive-web/client-web-legacy/shared~bundle.TwitterArticles~bundle.ComposeMedia~loaders.video.PlayerBase~loader.MediaPreviewVideoPlayer~loa.ae73fd9a.js:1:86180
+value@https://abs.twimg.com/responsive-web/client-web-legacy/shared~bundle.TwitterArticles~bundle.ComposeMedia~loaders.video.PlayerBase~loader.MediaPreviewVideoPlayer~loa.ae73fd9a.js:1:103076
+_/e/</<@https://abs.twimg.com/responsive-web/client-web-legacy/shared~bundle.TwitterArticles~bundle.ComposeMedia~loaders.video.PlayerBase~loader.MediaPreviewVideoPlayer~loa.ae73fd9a.js:1:99193
+
+JavaScript error: https://abs.twimg.com/responsive-web/client-web-legacy/vendor.75376d0a.js, line 82: Error: Minified Redux error #3; visit https://redux.js.org/Errors?code=3 for the full message or use the non-minified dev environment for full errors. 
+1694541149999	Marionette	INFO	Stopped listening on port 62799
+Dynamically enable window occlusion 1
