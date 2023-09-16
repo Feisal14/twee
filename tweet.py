@@ -1,3 +1,5 @@
+import pandas as pd
+import os
 import csv
 from getpass import getpass
 from time import sleep
@@ -30,21 +32,65 @@ login.click()
 
 sleep(3)
 search_input = driver.find_element(By.XPATH, '//input[@aria-label="Search query"]')
-search_input.send_keys("#RiyadhSeason")
+search_input.send_keys("#covid19")
 search_input.send_keys(Keys.ENTER)
 
-sleep(3)
-latest = driver.find_element(By.XPATH, "//span[contains(text(), 'Latest')]")
-latest.click()
+# sleep(3)
+# latest = driver.find_element(By.XPATH, "//span[contains(text(), 'Latest')]")
+# latest.click()
 
 
-for i in range(5):
-    driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-    sleep(2)
 
-tweets = driver.find_elements(By.XPATH, "//div[@data-testid='tweetText']")
-for tweet in tweets:
-    tweet_text = tweet.text
-    print(tweet_text)
+userTags = []
+
+tweets = []
+replys = []
+likes = []
+
+last_position = driver.execute_script("return window.pageYOffset;")
+
+# tweets = driver.find_elements(By.XPATH, "//div[@data-testid='tweetText']")
+
     
+    
+while True:
+    articles = driver.find_elements(By.XPATH, "//article[@data-testid='tweet']")
+    for article in articles:
+        
+        
+        userTag = driver.find_element(By.XPATH, '//div[@data-testid="User-Name"]').text
+        userTags.append(userTag)
+        
+        # time = driver.find_element(By.XPATH,".//time").get_attribute('datetime')
+        # times.append(time)
+        
+        tweet = driver.find_element(By.XPATH, "//div[@data-testid='tweetText']").text
+        tweets.append(tweet)
+        
+        reply = driver.find_element(By.XPATH, ".//div[@data-testid='reply']").text
+        replys.append(reply)
+        
+        like = driver.find_element(By.XPATH, ".//div[@data-testid='like']")          
+        likes.append(like)
+                  
+        
+    driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+    sleep(3)
+    articles = driver.find_elements(By.XPATH, "//article[@data-testid='tweet']")    
+    uniq_tweets = list(set(tweets))
+    if len(uniq_tweets) > 25:
+        break
+
+print(len(userTags),len(tweets)) 
+
+
+
+df = pd.DataFrame(zip(userTags, tweets, replys, likes)
+                  ,columns=['UserTags', 'Tweets', 'Time', 'Reply', 'Likes' ])
+
+df.to_excel(r"D:\\PROJECTS\\Excel\\Tweets.xlsx", index=False)
+df.head()
+
+os.system('start "excel" "D:\\PROJECTS\\Excel\\Tweets.xlsx"' )
+
 driver.quit()
